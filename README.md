@@ -1,2 +1,2 @@
-# storage
+# SoftUni
 softuni
