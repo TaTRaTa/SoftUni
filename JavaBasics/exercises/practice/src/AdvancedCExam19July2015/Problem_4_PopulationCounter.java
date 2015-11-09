@@ -34,7 +34,7 @@ public class Problem_4_PopulationCounter {
                 .sorted((a,b) -> b.getValue().compareTo(a.getValue()))
                 .forEach(entry -> {
 
-                        System.out.printf("%s(total population: %d)\n",
+                        System.out.printf("%s (total population: %d)\n",
                                 entry.getKey(),
                                 entry.getValue()
                         );
