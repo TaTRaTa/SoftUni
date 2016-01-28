@@ -1,0 +1,35 @@
+<taglib version="2.0" xmlns="http://java.sun.com/xml/j2ee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee/web-jsptaglibrary_2_0.xsd">
+    <display-name>Custom tags</display-name>
+    <tlib-version>1.0</tlib-version>
+    <short-name>ct</short-name>
+    <uri>http://jwd.bg/tags</uri>
+
+    <tag-file>
+        <name>title</name>
+        <path>/WEB-INF/tags/title.tag</path>
+    </tag-file>
+    <tag-file>
+        <name>footer</name>
+        <path>/WEB-INF/tags/footer.tag</path>
+    </tag-file>
+    <tag-file>
+        <name>page</name>
+        <path>/WEB-INF/tags/page.tag</path>
+    </tag-file>
+    <tag-file>
+        <name>content</name>
+        <path>/WEB-INF/tags/content.tag</path>
+    </tag-file>
+    <tag-file>
+        <name>currDate</name>
+        <path>/WEB-INF/tags/currDate.tag</path>
+    </tag-file>
+    <tag-file>
+        <name>task</name>
+        <path>/WEB-INF/tags/task.tag</path>
+    </tag-file>
+        <tag-file>
+        <name>table</name>
+        <path>/WEB-INF/tags/table.tag</path>
+    </tag-file>
+</taglib>
