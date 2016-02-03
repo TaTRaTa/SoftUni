@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ArrayManipulator", "01.A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ShmoogleCounter", "02.ShmoogleCounter\02.ShmoogleCounter.csproj", "{19354718-7668-4964-A404-3C2291CD04B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.SrybskoUnleashed", "04.SrybskoUnleashed\04.SrybskoUnleashed.csproj", "{0DAE49AD-C47B-4868-8F78-A51B6C2B923E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{19354718-7668-4964-A404-3C2291CD04B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19354718-7668-4964-A404-3C2291CD04B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19354718-7668-4964-A404-3C2291CD04B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DAE49AD-C47B-4868-8F78-A51B6C2B923E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DAE49AD-C47B-4868-8F78-A51B6C2B923E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DAE49AD-C47B-4868-8F78-A51B6C2B923E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DAE49AD-C47B-4868-8F78-A51B6C2B923E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
