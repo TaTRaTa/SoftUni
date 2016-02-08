@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ArraySlider", "02.ArrayS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.RageQuit", "03.RageQuit\03.RageQuit.csproj", "{BBA0CB65-2D5B-44FB-A8EB-C4B24E38C3A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.PopulationCounter", "04.PopulationCounter\04.PopulationCounter.csproj", "{A79C5621-71B7-44E8-BF2D-3B85E4A6B8F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{BBA0CB65-2D5B-44FB-A8EB-C4B24E38C3A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBA0CB65-2D5B-44FB-A8EB-C4B24E38C3A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBA0CB65-2D5B-44FB-A8EB-C4B24E38C3A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A79C5621-71B7-44E8-BF2D-3B85E4A6B8F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A79C5621-71B7-44E8-BF2D-3B85E4A6B8F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A79C5621-71B7-44E8-BF2D-3B85E4A6B8F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A79C5621-71B7-44E8-BF2D-3B85E4A6B8F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
