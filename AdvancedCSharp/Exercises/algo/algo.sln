@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tower_of_Hanoi", "Tower_of_Hanoi\Tower_of_Hanoi.csproj", "{9AF649D2-24FC-44BF-AA02-5DE6537C2AE4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Path_in_Labyrinth", "Path_in_lab\Path_in_Labyrinth.csproj", "{86021664-2E7A-462A-9D4C-5F05FA71441B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSort", "MergeSort\MergeSort.csproj", "{E1BBE59E-CDE3-408C-8ECB-9C49DBC3F65B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{86021664-2E7A-462A-9D4C-5F05FA71441B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86021664-2E7A-462A-9D4C-5F05FA71441B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86021664-2E7A-462A-9D4C-5F05FA71441B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1BBE59E-CDE3-408C-8ECB-9C49DBC3F65B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1BBE59E-CDE3-408C-8ECB-9C49DBC3F65B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1BBE59E-CDE3-408C-8ECB-9C49DBC3F65B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1BBE59E-CDE3-408C-8ECB-9C49DBC3F65B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
